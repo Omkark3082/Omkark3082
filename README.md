@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Omkar Kadam.
+- 👀 I’m interested in Codinng,learn new technology.
+- 🌱 I’m currently learning Java Full-Stack Developer.
+- 🔭 I’m currently exploring Open source programs and contributions.
+- I ❤️ to make exciting projects.
+- 💞️ I’m looking to collaborate with such a great communities around the globe.
+- 💬 Ask me about Java,Sql,C,Manual Testing.
+- 📫 How to reach me omkark3082@gmail.com/
